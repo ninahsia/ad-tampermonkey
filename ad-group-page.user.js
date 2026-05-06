@@ -4,8 +4,8 @@
 // @version      2026.04.29.V13
 // @description  修正 fitData layout 下 updateDefinition 造成的欄位錯位
 // @author       Nina Hsia
-// @match        https://admin.hourloop.com/amazon_ads/sp/ad_groups?*
-// @match        https://admin.hourloop.com/amazon_ads/sp/keywords*
+// @match        https://admin.hourloop.com/amazon_ads/list_ad_groups*
+// @match        https://admin.hourloop.com/amazon_ads/list_keywords*
 // @updateURL    https://raw.githubusercontent.com/ninahsia/ad-tampermonkey/master/ad-group-page.user.js
 // @downloadURL  https://raw.githubusercontent.com/ninahsia/ad-tampermonkey/master/ad-group-page.user.js
 // @run-at       document-idle
