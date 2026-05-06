@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ad Group Page Additional Functions (V13)
 // @namespace    http://tampermonkey.net/
-// @version      2026.04.29.V13
+// @version      2026.05.06.V13
 // @description  修正 fitData layout 下 updateDefinition 造成的欄位錯位
 // @author       Nina Hsia
 // @match        https://admin.hourloop.com/amazon_ads/list_ad_groups*
